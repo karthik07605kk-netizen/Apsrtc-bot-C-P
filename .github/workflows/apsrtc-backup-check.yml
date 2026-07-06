@@ -24,4 +24,4 @@ jobs:
 
       - name: Run Booking Script
         continue-on-error: true 
-        run: node booking.js
+        run: node booking2.js
